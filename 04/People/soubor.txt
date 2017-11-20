@@ -1,0 +1,4 @@
+class;name;age;height;weight;sex
+Human;Garrgravar;20;1.8;70;MAN
+Sportsman;Zarniwúp;20;1.8;70;MAN
+Human;Slartibartfast;20;1.8;70;MAN
